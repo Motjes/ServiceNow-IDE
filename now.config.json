@@ -1,0 +1,6 @@
+{
+  "scope": "x_snc_mark_safety",
+  "scopeId": "a4e8275c49b432107f447a39fc0b39d7",
+  "name": "Report Safety Issue Mark",
+  "tsconfigPath": "./src/server/tsconfig.json"
+}
